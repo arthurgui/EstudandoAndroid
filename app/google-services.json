@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87532521583",
+    "firebase_url": "https://estudandoandroid.firebaseio.com",
+    "project_id": "estudandoandroid",
+    "storage_bucket": "estudandoandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87532521583:android:9ad32aea53dfa96517659a",
+        "android_client_info": {
+          "package_name": "com.example.estudandoandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87532521583-1go88k5ac5ip4a8mi7896ph78vq7b8gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estudandoandroid",
+            "certificate_hash": "c85275f662928ced04fc88b6f212f901385a2b2f"
+          }
+        },
+        {
+          "client_id": "87532521583-grsnrssa7eur9hh81caigpi34djer818.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA66ojtSO1RHvJd8BvPt6eCgXcI4ry37CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87532521583-grsnrssa7eur9hh81caigpi34djer818.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
